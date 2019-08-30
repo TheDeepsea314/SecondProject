@@ -1,5 +1,5 @@
 package cn.news.entity;
 
-public class Address1 {
+public class Address2 {
 
 }
